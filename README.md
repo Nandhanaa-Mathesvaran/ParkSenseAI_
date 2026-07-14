@@ -4,7 +4,7 @@ An AI-powered Smart Parking Occupancy Detection System using **YOLOv8**, **OpenC
 
 ParkSense AI detects parking spaces and classifies them as **Empty** or **Occupied** from parking lot images, helping automate parking availability monitoring.
 
-Streamlit link: http://localhost:8501/ 
+Streamlit link: https://parksenseaigit-tu7ss2bkcejsy5g6duf8wk.streamlit.app/ 
 
 ## 🚀 Features
 
